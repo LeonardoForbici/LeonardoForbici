@@ -42,14 +42,6 @@ Sistema open source baseado em IA focado em:
 
 ---
 
-## Estatísticas
-
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoForbici&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoForbici&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Atividade
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoForbici&theme=dark&hide_border=true)
