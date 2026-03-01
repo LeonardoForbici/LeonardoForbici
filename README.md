@@ -1,7 +1,6 @@
 # Leonardo Forbici
 
-Desenvolvedor de Software especializado em sistemas inteligentes, automação e plataformas escaláveis.
-
+Desenvolvedor de Software
 ---
 
 ## Status
@@ -36,17 +35,6 @@ Sistema open source baseado em IA focado em:
 
 ---
 
-### Orctus
-
-Plataforma SaaS de gestão com foco em:
-
-- escalabilidade
-- arquitetura moderna
-- performance
-- automação
-
----
-
 ## Estatísticas
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoForbici&show_icons=true&theme=dark&hide_border=true)
@@ -58,19 +46,6 @@ Plataforma SaaS de gestão com foco em:
 ## Atividade
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoForbici&theme=dark&hide_border=true)
-
----
-
-## Filosofia
-
-Construo sistemas com foco em:
-
-- Inteligência
-- Automação
-- Escalabilidade
-- Eficiência
-
-Software é uma ferramenta de amplificação.
 
 ---
 
@@ -87,3 +62,6 @@ Software é uma ferramenta de amplificação.
 
 GitHub:  
 https://github.com/LeonardoForbici
+
+Email:
+leonardoforbici1@gmail.com
