@@ -29,19 +29,6 @@ Desenvolvedor de Software
 
 ---
 
-## Projetos Principais
-
-### antiCorruptIA
-
-Sistema open source baseado em IA focado em:
-
-- análise de dados
-- detecção de padrões
-- automação inteligente
-- execução local
-
----
-
 ## Atividade
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoForbici&theme=dark&hide_border=true)
